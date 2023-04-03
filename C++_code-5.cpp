@@ -1,4 +1,6 @@
 #include<iostream>
+
+//Private and Public Class
 class complex
 {
     private:
