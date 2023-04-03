@@ -1,5 +1,6 @@
 #include<iostream>
 
+//Call By Address
 int sum(int *,int *);
 int main(){
     int a = 5, b = 6;
