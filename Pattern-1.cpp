@@ -1,5 +1,5 @@
 #include<iostream>
-
+// Pattern
 int main(){
    int i,j,no=7;
    for(i=0;i<no;i++){

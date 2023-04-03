@@ -1,5 +1,6 @@
 #include<iostream>
 
+// To Find Square 
 int main(){
     int x;
     std :: cout<<"Enter The No. : ";

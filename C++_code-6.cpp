@@ -1,6 +1,6 @@
 #include<iostream>
 
-void fun();
+void fun(); // Using function 
 
 int main(){
 std :: cout<<"You are in main.\n";
